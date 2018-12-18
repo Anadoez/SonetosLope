@@ -41,12 +41,11 @@ div{
     color:#800000;
 }
 .fondo4{
-    background:url("fondos/caballo.svg") repeat-x bottom,
+    background:url("fondos/caballo.svg") repeat-x bottom left,
     url("fondos/estrellas.png") repeat;
-    background-size: 30% 30%;
-    background-position: 0% 100%;
+    background-size: 30%;
     color:#004D06;
-    padding-bottom: 5%;
+    padding-bottom: 9%;
 }
 
 

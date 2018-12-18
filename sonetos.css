@@ -4,7 +4,7 @@
 body{
     background: url("fondos/corazon-1.svg") repeat-y top left,
     url("fondos/corazon-2.svg") repeat-y top right ;
-    background-size: 20% 9%;
+    background-size: 20%;
     background-color: #FFEBF0;
     font-family: sans-serif;
     font-size: 150%;

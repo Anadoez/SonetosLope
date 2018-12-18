@@ -22,6 +22,7 @@ main{
 div{
     text-align: center;
     width:100%;
+    margin-bottom: 2%;
     border: 3px solid black;
     font-weight: bold;
 }
